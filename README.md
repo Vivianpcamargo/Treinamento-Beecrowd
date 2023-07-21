@@ -13,7 +13,7 @@ Resolução de execícios disponibilizados no site <a href='https://www.beecrowd
 
 ## :bar_chart: Rodando os Exercícios
 
-O teste dos execícios são realizados pelo site Beecrowd podendo retornar os seguintes status:
+O teste dos execícios são realizados pelo site Beecrowd, podendo retornar os seguintes status:
 
 ### :label: IN QUEUE
 
